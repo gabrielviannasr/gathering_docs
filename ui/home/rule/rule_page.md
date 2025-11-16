@@ -107,6 +107,15 @@ Para registrar um evento, informe:
 | Taxa da Confra | Inscrição do evento ou passe |
 | Taxa da Rodada | Inscrição da rodada |
 
+Por exemplo:
+
+| Campo | Valor |
+|-------|-----------|
+| Formato | - |
+| Taxa da Confra | R$ 20,00 |
+| Taxa da Rodada | R$ 10,00 |
+
+
 Também informe a configuração da divisão da premiação e pote dos derrotados de acordo com o número de jogadores. Por exemplo, considerando a *Taxa da Rodada* de R$ 10,00, o total arrecadado seria R$ 50,00 e R$ 60,00 quando houver 5 e 6 jogadores, respectivamente. Nesse caso, a configuração poderia ser:
 
 | Nº de Jogadores | Premiação (R$) | Pote dos Derrotados (R$) |
@@ -164,7 +173,13 @@ No exemplo a seguir, foram jogadas 8 rodadas com 6 jogadores cada. Seguindo a co
 |7 |G |0 |6 | 0,00 |60,00 |-60,00|
 |7 |H |0 |6 | 0,00 |60,00 |-60,00|
 
-Nesse cenário, o pote dos derrotados teria acumulado o valor de R$ 120,00 (8 x R$ 15,00). Como houve empate, os maiores derrotados dividem igualmente o pote, R$ 60,00 para cada um. Após a correção do pote dos derrotados, o saldo final de cada jogador ficaria assim:
+Nesse cenário, o pote da confra teria acumulado o valor de R$ 160,00 (8 x R$ 20,00) e o pote dos derrotados o valor de R$ 120,00 (8 x R$ 15,00).
+
+| Pote da Confra | Pote dos Derrotados |
+|----------------|---------------------|
+|  R$ 160,00 | R$ 120,00 |
+
+Como houve empate, os maiores derrotados dividem igualmente o pote, R$ 60,00 para cada um. Após a correção do pote dos derrotados, o saldo final de cada jogador ficaria assim:
 
 | Rank | Jogador | Vitórias | Rodadas | Positivo | Negativo | Saldo Rankeado | Pote dos Derrotados | Saldo Final |
 |------|---------|----------|---------|----------|----------|----------------|---------------------|-------------|
