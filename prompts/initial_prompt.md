@@ -1,116 +1,144 @@
-# ✅ **PROMPT PROFISSIONAL PARA GERAR AS TELAS DO APP "GATHERING"**
+# ✅ **1) PROMPT COMPLETO — ATUALIZADO (para commit e documentação)**
 
-**Título do Projeto:** *Gathering — Gestão de Confras, Eventos e Jogos Multiplayer*
-**Plataformas:** iOS, Android e Web (mobile-first, design responsivo)
+Inclui **todas as melhorias**, mantém o padrão profissional e já incorpora os ajustes que você pediu.
+
+---
+
+# 🚀 **PROMPT PROFISSIONAL PARA GERAR AS TELAS DO APP “GATHERING” (ATUALIZADO)**
+
+**Título do Projeto:**
+**Gathering — Gestão de Confras, Eventos e Jogos Multiplayer**
+
+**Plataformas:** iOS, Android e Web (mobile-first, responsivo)
 **Estilo visual desejado:**
 
-* Moderno
-* Cores suaves, com destaque em tons vibrantes
-* UI limpa, inspirada em Google Material 3 + iOS 17
-* Ícones simples e padronizados (outline)
-* Cards com bordas arredondadas
-* Espaçamento confortável
-* Tipografia moderna e bem hierarquizada
+* Moderno e profissional
+* Gradientes elegantes no header
+* Cores vibrantes (Material 3 + iOS 17 vibes)
+* Cards em grid 2×N
+* Ícones minimalistas em outline
+* Tipografia limpa e hierárquica
+* Layout com espaçamento amplo
 
 ---
 
 # 📱 **GERAR A TELA: HOME PAGE**
 
-Crie uma tela inicial contendo:
+Criar uma tela inicial composta por:
 
-### **Header**
+---
+
+## **HEADER (com gradiente moderno)**
 
 * Texto grande e centralizado: **"DIRETORIA"**
-* Subtítulo menor e centralizado: **"2025"**
+* Subtítulo centralizado: **"2025"**
+* Abaixo do ano, incluir um **botão estilizado**:
+  **"Selecionar Confra"**
+  (em estilo pill button, discreto mas visível)
 
-### **Menu como Grid 2xN**
+---
 
-Cada card contém:
+## **MENU EM GRID 2×N (cards coloridos)**
 
-1. Ícone
+Cada card deve ter:
+
+1. Ícone grande (outline, colorido)
 2. Título (negrito)
 3. Subtítulo pequeno
 
-**Cards do menu:**
+### **Cards:**
 
-1. **Confras** — "Gerenciar" — ícone: pessoas ao redor de uma mesa em reunião
-2. **Eventos** — "Gerenciar" — ícone: calendário
-3. **Rank** — "Classificação" — ícone: troféu
-4. **Jogadores** — "Gerenciar" — ícone: grupo de pessoas
-5. **Formatos** — "Modos de Jogo" — ícone: cartas de baralho, com a carta de destaque exibindo um ponto de interrogação
-6. **Regras** — "Como Funciona" — ícone: Lista
+1. **Confras** — "Gerenciar"
+   Ícone: **pessoas ao redor de uma mesa** (não igual ao de jogadores)
 
-### **Bottom Navigation Bar**
+2. **Eventos** — "Gerenciar"
+   Ícone: **calendário**
 
-* Home (ativo)
-* Extrato
-* Carteira
-* Relatórios
+3. **Rank** — "Classificação"
+   Ícone: **troféu**
+
+4. **Jogadores** — "Gerenciar"
+   Ícone: **grupo de pessoas**
+
+5. **Formatos** — "Modos de Jogo"
+   Ícone: **cartas de baralho**, com a carta principal exibindo um **?**
+   → Usar *mock de exemplos reais*:
+   **Commander**, **Conquest**, **Tiny Leaders**
+
+6. **Regras** — "Como Funciona"
+   Ícone: **lista**
+
+---
+
+## **BOTTOM NAVIGATION BAR**
+
+Com 4 abas, estilo moderno:
+
+* **Home** (ativo)
+* **Extrato** — ícone **duas setas up/down**
+* **Carteira** — ícone carteira
+* **Relatórios** — ícone gráfico
 
 ---
 
 # 📅 **GERAR A TELA: EVENT LIST PAGE**
 
-### **Header**
+### Header
 
 * Botão voltar
 * Título: **"Eventos"**
 * Subtítulo: **"2025 - DIRETORIA"**
 
-### **Bloco de filtros**
+### Filtros
 
-* Combo: **Formato**
-* Combo: **Período**
-* Botão: **Adicionar**
+* Combo **Formato**
+* Combo **Período**
+* Botão **Adicionar Evento**
 
-### **Lista**
+### Lista
 
-Cada item deve exibir:
+Cada item exibe:
 
-* Formato (ex.: "Commander")
+* Formato (ex.: Commander)
 * Data
-* Quantidade de jogadores
-* Quantidade de rodadas
-* A seta ">"
+* Jogadores (ex.: "6 jogadores")
+* Rodadas (ex.: "4 rodadas")
+* Ícone “>”
 
 ---
 
 # 💸 **GERAR A TELA: TRANSACTION LIST PAGE**
 
-### **Header**
+### Header
 
-* Título: **"Transactions"**
-* Botão de filtros
+* Título: **"Extrato"**
+* Botão filtros
 
-### **Lista**
+### Lista
 
-Cada item contém:
+Cada item:
 
-* Tipo: Inscrição, Resultado, Depósito, Saque
-* Data
-* Valor (positivo ou negativo)
-* Seta de detalhes ">"
+* Tipo (Inscrição / Resultado / Depósito / Saque)
+* Data/hora
+* Valor (positivo = verde, negativo = vermelho)
+* Ícone ">"
 
-### **Bottom Navigation Bar**
-
-* Home
-* Extrato (ativo)
-* Carteira
-* Relatórios
+### Bottom Bar (Extrato ativo)
 
 ---
 
-# 💬 ESTILO GERAL
+# 🎨 **ESTILO GERAL**
 
-* Design moderno, profissional e minimalista
-* Cores suaves + destaque em cores de ação (roxo, azul, verde ou laranja)
-* Boa hierarquia visual
-* Espaçamento amplo para toque
-* Bordas arredondadas
+* UI moderna, clara, elegante
 * Ícones outline
+* Gradientes sutis
+* Espaçamento confortável
+* Botões com canto arredondado
+* Paleta vibrante porém suave
+* Foco na hierarquia visual
 
 ---
 
-# 👉 **FRASE FINAL DO PROMPT (importante para AIs de design)**
+# 🔚 **FRASE FINAL (importante para AIs de design)**
 
-> “Generate the screens in high-fidelity UI mockup style, using modern mobile app design principles. Avoid text walls; focus on clarity, spacing, and visual hierarchy. Maintain consistency across all screens.”
+> “Generate the screens in high-fidelity UI mockup style, with modern mobile app design principles, consistent spacing, visual hierarchy and color usage. Avoid long text blocks and keep the interface clean, intuitive and professional.”
