@@ -6,7 +6,7 @@ O Gathering terá um modelo híbrido de monetização:
 
 ## 🆓 Plano Gratuito (Free)
 - Limite de 1 confra ativa
-- Limite de 4 eventos por mês
+- Limite de 2 eventos por mês
 - Limite de 6 jogadores por evento
 - Limite de 6 rodadas por evento
 - Dashboard básico (saldo + histórico)
