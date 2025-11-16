@@ -4,7 +4,7 @@ Tela acessada via: **Home Page (Eventos) → Event List**
 
 ## 🔎 Filtros
 - Formato (select: format_name)
-- Período (data inicial / data final - createdAt)
+- Mês (select: month)
 
 ## 📑 Colunas
 - Formato (format_name)
