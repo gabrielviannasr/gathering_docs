@@ -79,7 +79,7 @@ Primeiramente é necessário registrar os tipos de formatos que serão jogados, 
 Exemplos de formatos:
 
 | Nome | Pontos de Vida |
-|------|----------------|
+|:----:|:--------------:|
 | Commander | 40 |
 | Conquest | 30 |
 | Tiny Leaders | 30 |
@@ -102,7 +102,7 @@ Na tela inicial (*home page*), você deve selecionar a confra que define o conte
 Para registrar um evento, informe:
 
 | Campo | Descrição |
-|-------|-----------|
+|:-----:|-----------|
 | Formato | Opicional, define o formato jogado em cada rodada |
 | Taxa da Confra | Inscrição do evento ou passe |
 | Taxa da Rodada | Inscrição da rodada |
@@ -110,7 +110,7 @@ Para registrar um evento, informe:
 Por exemplo:
 
 | Campo | Valor |
-|-------|-----------|
+|:-----:|:---------:|
 | Formato | - |
 | Taxa da Confra | R$ 20,00 |
 | Taxa da Rodada | R$ 10,00 |
@@ -119,21 +119,21 @@ Por exemplo:
 Também informe a configuração da divisão da premiação e pote dos derrotados de acordo com o número de jogadores. Por exemplo, considerando a *Taxa da Rodada* de R$ 10,00, o total arrecadado seria R$ 50,00 e R$ 60,00 quando houver 5 e 6 jogadores, respectivamente. Nesse caso, a configuração poderia ser:
 
 | Nº de Jogadores | Premiação (R$) | Pote dos Derrotados (R$) |
-|-----------------|----------------|--------------------------|
+|:---------------:|:--------------:|:------------------------:|
 | 5 | 40,00 | 10,00 |
 | 6 | 45,00 | 15,00 |
 
 ou
 
 | Nº de Jogadores | Premiação (R$) | Pote dos Derrotados (R$) |
-|-----------------|----------------|--------------------------|
+|:---------------:|:--------------:|:------------------------:|
 | 5 | 45,00 |  5,00 |
 | 6 | 50,00 | 10,00 |
 
 Qualquer configuração em que o número de jogadores não esteja registrado, será considerado que não há pote dos derrotados e a premiação será o total arrecado das inscrições da rodada. Por exemplo:
 
 | Nº de Jogadores | Premiação (R$) | Pote dos Derrotados (R$) |
-|-----------------|----------------|--------------------------|
+|:---------------:|:--------------:|:------------------------:|
 | 4 | 40,00 | 0,00 |
 | 7 | 70,00 | 0,00 |
 
@@ -163,7 +163,7 @@ Em caso de empate, o critério de desempate é o número de partidas jogadas. Qu
 No exemplo a seguir, foram jogadas 8 rodadas com 6 jogadores cada. Seguindo a configuração R$ 45 / R$ 15 para divisão da premiação e pote dos derrotados.
 
 | Rank | Jogador | Vitórias | Rodadas | Positivo | Negativo | Saldo Rankeado |
-|------|---------|----------|---------|----------|----------|----------------|
+|:----:|:-------:|:--------:|:-------:|:--------:|:--------:|:--------------:|
 |1 |A |2 |4 |90,00 |40,00 | 50,00|
 |2 |B |2 |6 |90,00 |60,00 | 30,00|
 |3 |C |1 |5 |45,00 |50,00 | -5,00|
@@ -176,13 +176,13 @@ No exemplo a seguir, foram jogadas 8 rodadas com 6 jogadores cada. Seguindo a co
 Nesse cenário, o pote da confra teria acumulado o valor de R$ 160,00 (8 x R$ 20,00) e o pote dos derrotados o valor de R$ 120,00 (8 x R$ 15,00).
 
 | Pote da Confra | Pote dos Derrotados |
-|----------------|---------------------|
+|:--------------:|:-------------------:|
 |  R$ 160,00 | R$ 120,00 |
 
 Como houve empate, os maiores derrotados dividem igualmente o pote, R$ 60,00 para cada um. Após a correção do pote dos derrotados, o saldo final de cada jogador ficaria assim:
 
 | Rank | Jogador | Vitórias | Rodadas | Positivo | Negativo | Saldo Rankeado | Pote dos Derrotados | Saldo Final |
-|------|---------|----------|---------|----------|----------|----------------|---------------------|-------------|
+|:----:|:-------:|:--------:|:-------:|:--------:|:--------:|:--------------:|:-------------------:|:-----------:|
 |1 |A |2 |4 |90,00 |40,00 | 50,00| 0,00| 50,00|
 |2 |B |2 |6 |90,00 |60,00 | 30,00| 0,00| 30,00|
 |3 |C |1 |5 |45,00 |50,00 | -5,00| 0,00| -5,00|
