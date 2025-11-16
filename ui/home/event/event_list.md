@@ -18,7 +18,7 @@ Tela acessada via: **Home Page (Eventos) → Event List**
 - Premiação (prize)
 
 ## ✔️ Funcionalidades
-- Botão “Adicionar Evento”
+- Botão “Adicionar”
 - Botão “Editar” (por item)
 - Lista carregada automaticamente
 - Paginação

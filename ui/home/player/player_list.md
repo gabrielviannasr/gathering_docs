@@ -9,7 +9,7 @@ Tela acessada via: **Home Page (Jogadores) → Player List**
 - Nome (name)
 
 ## ✔️ Funcionalidades
-- Botão “Adicionar Evento”
+- Botão “Adicionar”
 - Botão “Editar” (por item)
 - Lista carregada automaticamente
 - Paginação
