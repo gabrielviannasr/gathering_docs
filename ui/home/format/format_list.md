@@ -10,7 +10,7 @@ Tela acessada via: **Home Page (Formatos) → Format List**
 - Pontos de Vida (life_count)
 
 ## ✔️ Funcionalidades
-- Botão “Adicionar”
+- Botão “Adicionar Formato”
 - Botão “Editar” (por item)
 - Lista carregada automaticamente
 - Paginação

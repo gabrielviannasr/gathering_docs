@@ -11,7 +11,7 @@ Tela acessada via: **Home Page (Confras) → Gathering List**
 - Ano (year)
 
 ## ✔️ Funcionalidades
-- Botão “Adicionar”
+- Botão “Adicionar Confra”
 - Botão “Editar” (por item)
 - Lista carregada ao abrir a página
 - Paginação
