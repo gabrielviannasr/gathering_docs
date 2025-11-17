@@ -1,6 +1,6 @@
 # 🏆 Rank Page
 
-Tela acessada via: **Home Page (Rank) → Gathering List**
+Tela acessada via: **Home Page (Rank) → Rank Page**
 
 Lista o rank do evento de cada jogador.
 
