@@ -10,8 +10,8 @@ Tela acessada via: **Home Page (Eventos) → Event List (Adicionar / Editar) →
 ## 💰 Taxas por Número de Jogadores
 Lista dinâmica contendo:
 - Jogadores (players)
+- Premiação (prize_fee)
 - Pote dos Derrotados (loser_fee)
-- Pote da Confra (prize_fee)
 
 ## ✔️ Funcionalidades
 - Botão “Cancelar”
