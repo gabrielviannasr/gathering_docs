@@ -26,7 +26,7 @@ Tela acessada via: **Home Page → Confras → Gathering List**
 ### Filtros
 - Nome (LIKE)
 - Ano (campo select)
-  - 2025, 2024, 2023, …  
+  - Todos, 2025, 2024, 2023, …  
 
 ### Botões
 - Botão “Adicionar Confra”
