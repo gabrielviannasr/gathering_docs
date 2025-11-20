@@ -45,10 +45,10 @@ Cada card contém:
 
 ### **Bottom Navigation Bar**
 
-* Home (ativo)
-* Extrato
-* Carteira
-* Relatórios
+* Home (ativo) - ícone: home
+* Extrato - ícone: setas up and down
+* Carteira - wallet
+* Relatórios - Gráfico
 
 ---
 
