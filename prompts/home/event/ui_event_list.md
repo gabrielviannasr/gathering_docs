@@ -16,7 +16,7 @@
 
 Cada item deve exibir:
 
-* Formato (ex.: "Commander", "Conquest", "Tiny Leader", "Variados")
+* Formato (ex.: "Commander", "Conquest", "Tiny Leader")
 * Data
 * Quantidade de jogadores
 * Quantidade de rodadas

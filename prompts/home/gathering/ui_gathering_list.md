@@ -28,20 +28,24 @@ Tela acessada via: **Home Page → Confras → Gathering List**
 - Ano (campo select)
   - 2025, 2024, 2023, …  
 
+### Botões
+- Botão “Adicionar Confra”
+
 ### Lista
 Card com:
 - Ícone de “grupo de pessoas” (outline)
 - Nome da confra
 - Ano
+- Eventos
+- Jogadores
 - Seta “>”
 
 Cards da lista:
-	- DIRETORIA, 2025
-	- DIRETORIA, 2024
-	- DIRETORIA, 2023
+	- DIRETORIA, 2025, 25, 13
+	- DIRETORIA, 2024, 20, 12
+	- DIRETORIA, 2023, 20, 10
 
 ### Ações
-- Botão “Adicionar Confra”
 - Lista carregada automaticamente
 - Paginação
 
