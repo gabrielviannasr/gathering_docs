@@ -163,7 +163,8 @@ Tela acessada via:
   * X jogadores - Y rodadas
 
   Mockup: { 
-    id: 2, 
+    id: 2,
+    idFormat: 2,
     format: { id: 2, name: 'Conquest' , type: { id: 1, name: 'Cartas' } }, 
     date: '2025-01-21',
     players: 8, 

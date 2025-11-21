@@ -23,7 +23,7 @@
 
 Cada linha deve exibir:
 
-* Ranking (posição) — número grande, à esquerda
+* Rank (posição) — número grande, à esquerda
 * Nome do jogador
 * Vitórias
 * Rodadas
@@ -36,7 +36,7 @@ Cada linha deve exibir:
 **Acesso:** Home Page → Rank → Rank Page → Rank Detail
 
 Exibir em 2 colunas (nome da coluna e valor):
-* Ranking
+* Rank
    * Esta coluna represnta posição — exibir um número grande no valor
 * Nome do jogador
 * Vitórias
