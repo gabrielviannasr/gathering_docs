@@ -79,7 +79,6 @@ Tela acessada via: **Home Page → Confras → Gathering List (Adicionar/Editar)
 ### **Campos**
 
 * Nome
-* Ano
 
 ### **Botões**
 
