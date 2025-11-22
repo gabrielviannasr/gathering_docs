@@ -26,6 +26,9 @@ Duas colunas (label / valor):
 * **Vencedor** (Nome / Sem vencedor)
 	- Destaque fundo verde / negrito
 	- Não editável, apenas pelo botão definir vencedor
+* **Status** (Ativa / Cancelada)
+* Toogle Button (Ativar / Cancelar)
+  	- Label on left and bold
 
 Mockup: { id: 1, round: 1, idPlayerWinner: 5, players: 6, prize: 45.00, loserPot: 15.00 }
 
@@ -61,6 +64,7 @@ Título: Filtros
 - Ícone vencedor
 	- Troféu Amarelo / 32px
 	- justify-between
+- Botão remover (por item)
 
 Mockup: [
 { id: 1, name: 'Anderson Dias' },
